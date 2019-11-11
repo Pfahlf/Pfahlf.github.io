@@ -1,0 +1,66 @@
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+nav a{
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color:black;
+    display: flex;
+}
+
+nav a:hover{
+    background-color: white;
+    color: #009cde;
+}
+
+nav .icon{
+    display: none;
+}
+
+nav .redDot{
+    color: red;
+    display: block;
+}
+
+.classLike {
+    /*font-family: 'IBM Plex Mono', monospace;*/
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.annotation{
+    font-size: small;
+    color: #c4a126;
+    font-weight: lighter;
+}
+
+.margleft20{
+    margin-left: 20px;
+}
+
+.margtop10{
+    margin-top: 10px;
+}
+
+.margbottom10{
+    margin-bottom: 10px;
+}
+
+.fakeH5{
+    font-size: large;
+    font-weight: bolder;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.small{
+    font-size: x-small;
+}
